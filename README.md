@@ -1,10 +1,4 @@
 
-### 0.前言简述
-描述：使用Github-Action或者Aliyun镜像服务同步镜像到个人DockerHub或者私有镜像仓库中
-
-**作者主页:** https://www.weiyigeek.top
-**作者博客:** https://blog.weiyigeek.top
-**作者公众号:** 全栈工程师修炼指南
 
 ---
 
